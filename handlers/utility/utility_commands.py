@@ -21,8 +21,9 @@ async def start_command(client: Client, message: types.Message):
         f"Hello {sender.first_name}! My name is {BOT_NAME}.\n\n"
         "I'm an all-in-one multipurpose bot developed by @MAymanKH.\n"
         "- Use /help to discover all my commands and features.\n"
-        "- Use /feedback to send suggestions to developers.\n"
-        "- I'm fully open-source and available on [GitHub](https://github.com/MAymanKH/ShinBot)."
+        "- Use /feedback to send suggestions to the developer.\n"
+        "- You can also just send me a message to chat with my intelligent AI persona.\n"
+        "- I'm fully open-source and available on [MAymanKH/ShinAI](https://github.com/MAymanKH/ShinAI) & [MAymanKH/ShinBot](https://github.com/MAymanKH/ShinBot)."
     )
 
 # ---------------------------
